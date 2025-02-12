@@ -1,4 +1,4 @@
 ## Insurance-Data-Analysis
 
-![Image]("Insurance Data Analysis Dashboard.png")
+![Image](/"Insurance Data Analysis Dashboard.png")
 
