@@ -1,3 +1,3 @@
 ## Insurance-Data-Analysis
 
-![Alt Text](Insurance Data Analysis Dashboard.png)
+![Image](Insurance Data Analysis Dashboard.png)
